@@ -32,7 +32,7 @@
 <p>
 	The user logs in, then navigates away from the site, clicks a bookmark to another site or uses
 	browser navigation to go back to a previous site. If the user returns to the site using browser
-	navigation the user should be logged but the old state is used showing them logged out until a
+	navigation the user should be logged in but the old state is used showing them logged out until a
 	refresh is done.
 </p>
 
