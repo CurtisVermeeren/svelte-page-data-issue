@@ -66,11 +66,11 @@
 </p>
 
 <p>
-	When the Steps to reproduce the issue are done with disable cache in the dev tools enabled this
-	issue doesn't persist
+	When the Steps to reproduce the issue are done with disable cache enabled in the dev tools this
+	issue doesn't persist.
 </p>
 
-<p>If Cache-Control: no-store is set in the server hooks for the issue doesn't persist.</p>
+<p>If Cache-Control: no-store is set in the server hooks the issue doesn't persist.</p>
 
 <p>
 	If using window.reload() to redirect on login and logout instead of use:enhance this issue doesn't
@@ -79,7 +79,7 @@
 
 <h3>Conclusion</h3>
 <p>
-	I don't know if this is a missunderstanding on my part of how to use load data or a potential bug.
+	I don't know if this is a misunderstanding on my part of how to use load data or a potential bug.
 	Should I be trying to catch the user leaving the site and save state? Should logged in state be
 	stored in an alternative method?
 </p>
