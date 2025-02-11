@@ -1,5 +1,5 @@
 {
-	"name": "Node VSCode Dev Container",
+	"name": "Svelte Page Data Issue",
 	"dockerComposeFile": [
 		"docker-compose.yml"
 	],
@@ -17,7 +17,8 @@
 			},
 			"extensions": [
 				"dbaeumer.vscode-eslint",
-				"codeium.codeium"
+				"codeium.codeium",
+				"svelte.svelte-vscode"
 			]
 		}
 	}
