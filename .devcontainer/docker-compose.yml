@@ -1,0 +1,12 @@
+version: '3.8'
+services:
+  node-app:
+    container_name: node-devcontainer-scaffold
+    build:
+      context: .
+      dockerfile: ./Dockerfile
+    volumes:
+      - ../:/app:cached
+    ports:
+      - 8080:8080
+    command: /bin/sh -c "while sleep 1000; do :; done"
