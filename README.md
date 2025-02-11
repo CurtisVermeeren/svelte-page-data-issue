@@ -7,4 +7,4 @@ If the user returns to the site using browser navigation the user should be logg
 
 Each page console logs the Page data during navigation.
 
-<video src="https://jmp.sh/3cuXYi5G" controls></video>
+recording.mp4 shows a reproduction of this issue.
