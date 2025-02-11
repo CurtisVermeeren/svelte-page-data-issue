@@ -7,4 +7,4 @@ If the user returns to the site using browser navigation the user should be logg
 
 Each page console logs the Page data during navigation.
 
-<video src="[recording.mp4](https://github.com/CurtisVermeeren/svelte-page-data-issue/raw/73b76c910ce4bd807321ee31c603e705db086a17/recording.mp4)" controls></video>
+<video src="https://jmp.sh/3cuXYi5G" controls></video>
